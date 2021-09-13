@@ -47,6 +47,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Time and its management tools](https://dev.to/rezab/time-and-its-management-tools-2e4)
+- [Async/Await in JavaScript](https://dev.to/rezab/async-await-in-javascript-noe)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://dev.to/rezab
