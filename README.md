@@ -47,6 +47,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Loading with SSR in React](https://dev.to/rezab/data-loading-with-ssr-in-react-185p)
 - [Time and its management tools](https://dev.to/rezab/time-and-its-management-tools-2e4)
 - [Async/Await in JavaScript](https://dev.to/rezab/async-await-in-javascript-noe)
 <!-- BLOG-POST-LIST:END -->
