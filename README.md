@@ -49,16 +49,6 @@ Advanced code analysis and intelligence platform that leverages AI to provide de
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reza899&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reza899&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
