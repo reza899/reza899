@@ -53,7 +53,7 @@ Advanced code analysis and intelligence platform that leverages AI to provide de
 
 <!-- BLOG-POST-LIST:START -->
 - [Common React Design patterns: Custom Hooks](https://dev.to/rezab/common-react-design-patterns-custom-hooks-4i9p)
-- [Beginner's guide to Tailwind CSS: the new way of styling](https://dev.to/rezab/beginner-s-guide-to-tailwind-css-the-new-way-of-styling-3i80)
+- [Beginner’s guide to Tailwind CSS: the new way of styling](https://dev.to/rezab/beginner-s-guide-to-tailwind-css-the-new-way-of-styling-3i80)
 - [Data Loading with SSR in React](https://dev.to/rezab/data-loading-with-ssr-in-react-185p)
 - [Time and its management tools](https://dev.to/rezab/time-and-its-management-tools-2e4)
 - [Async/Await in JavaScript](https://dev.to/rezab/async-await-in-javascript-noe)
